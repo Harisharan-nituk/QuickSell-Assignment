@@ -1,0 +1,15 @@
+.kanban-board {
+  display: flex;
+  gap: 20px;
+  margin-top:3vh;
+}
+.kanban-column {
+  width: 400px;
+  flex-shrink: 0;
+  margin-left:2vw;
+  margin-top:3vh;
+  
+}
+
+.section-item {
+}
